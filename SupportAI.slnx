@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SupportAI.Core/SupportAI.Core.csproj" />
+    <Project Path="src/SupportAI.Infrastructure/SupportAI.Infrastructure.csproj" />
+    <Project Path="src/SupportAI.WebApi/SupportAI.WebApi.csproj" />
+  </Folder>
+</Solution>
